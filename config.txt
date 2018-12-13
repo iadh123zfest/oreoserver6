@@ -1,6 +1,6 @@
-﻿token= 
-owner= 
-prefix= 
-game= help
+token= NTIyNzc0MDA1MzcyMTU3OTYy.DvP2xg.1wGtUO-VhbbG3G2X7Cnt-DdOR68
+owner= 522369255920893953
+prefix= 6
+game= ,Oreo Server
 stayinchannel=true 
 songinstatus=true 
